@@ -13,8 +13,8 @@ Backend Developer in progress
 이후 이미지 캡셔닝 및 QA 시스템 프로젝트를 통해  
 모델의 결과를 실제 사용자 흐름과 연결하는 경험을 했습니다.
 
-현재는 백엔드 개발에 집중하며  
-API 설계, 데이터 흐름 관리, 확장 가능한 서비스 구조를 학습하고 있습니다.
+현재는 백엔드 개발에 관심을 가지고 있으며,  
+API 설계와 데이터 흐름, 서비스 구조에 대해 학습을 시작하고 있습니다.
 
 ---
 
@@ -60,12 +60,6 @@ API 설계, 데이터 흐름 관리, 확장 가능한 서비스 구조를 학습
 - Focused on real-world service structure
 
 👉 https://github.com/yeonsang-atom/gym-platform-database.git
-
----  
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonsang-atom&show_icons=true)
 
 ---  
 
