@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Yeonsang Jung (정연상)
 
-<!--
-**yeonsang-atom/yeonsang-atom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in progress  
+시스템과 데이터를 이해하고, 실제 서비스로 연결하는 개발자를 목표로 하고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+
+저는 xv6에서 MLFQ 스케줄러를 직접 구현하며 운영체제 수준의 시스템 동작을 이해하는 것에서 시작했습니다.  
+프로세스 스케줄링 정책을 설계하며 "시스템을 설계하는 개발자"의 경험을 쌓았습니다.
+
+이후 이미지 캡셔닝 및 QA 시스템 프로젝트를 통해  
+모델의 결과를 실제 사용자 흐름과 연결하는 경험을 했습니다.
+
+현재는 백엔드 개발에 집중하며  
+API 설계, 데이터 흐름 관리, 확장 가능한 서비스 구조를 학습하고 있습니다.
+
+---
+
+## 🛠 Tech Stack  
+
+### Languages
+- Java (Main)
+- C
+- SQL
+
+### Database
+- MySQL
+
+### Others
+- Python (used in Computer Vision projects)
+
+---  
+
+## Projects
+
+### Vision Captioning & QA System
+- Image captioning using BLIP2 & Florence2
+- Built a QA system based on generated captions
+- Evaluated performance using BLEU, ROUGE, METEOR
+- Designed for visually impaired users
+
+👉 https://github.com/yeonsang-atom/vision-captioning-qa-system.git
+
+---  
+
+### xv6 MLFQ Scheduler
+- Implemented Multilevel Feedback Queue scheduling in xv6
+- Designed custom scheduling policies based on process behavior
+- Managed time quantum, priority, and queue transitions
+
+👉 https://github.com/yeonsang-atom/xv6-mlfq-scheduler.git
+
+---  
+
+### Gym Platform Database Design
+- Designed relational database schema for gym management system
+- Implemented SQL queries, procedures, and indexing
+- Focused on real-world service structure
+
+👉 https://github.com/yeonsang-atom/gym-platform-database.git
+
+---  
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonsang-atom&show_icons=true)
+
+---  
+
+## 🎯 Goal
+안정적인 시스템을 설계하고, 실제 데이터를 다루며,  
+확장 가능한 서비스를 구현할 수 있는 백엔드 개발자로 성장하는 것이 목표입니다.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/yeonsang-atom
+- Email: wjddustkd1480@gmail.com
