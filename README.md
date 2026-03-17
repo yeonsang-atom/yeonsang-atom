@@ -5,7 +5,7 @@ Backend Developer in progress
 
 ---
 
-## About Me  
+## 🧠 About Me  
 
 저는 xv6에서 MLFQ 스케줄러를 직접 구현하며 운영체제 수준의 시스템 동작을 이해하는 것에서 시작했습니다.  
 프로세스 스케줄링 정책을 설계하며 "시스템을 설계하는 개발자"의 경험을 쌓았습니다.
@@ -33,7 +33,7 @@ API 설계, 데이터 흐름 관리, 확장 가능한 서비스 구조를 학습
 
 ---  
 
-## Projects
+## 🚀 Projects
 
 ### Vision Captioning & QA System
 - Image captioning using BLIP2 & Florence2
